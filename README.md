@@ -1,5 +1,5 @@
 # decryptCMAuto
-Automatic decryption of emails for the Cookie Muncher V5 malware.
+Automatic decryption of emails for the Cookie Muncher V5/V6 malware.
 
 **Q/A**:
 
